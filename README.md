@@ -1,3 +1,5 @@
+참고 : https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
