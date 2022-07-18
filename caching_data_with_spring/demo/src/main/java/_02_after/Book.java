@@ -1,7 +1,6 @@
 package _02_after;
 
 public class Book {
-
     private String isbn;
     private String title;
 
